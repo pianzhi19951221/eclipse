@@ -14,7 +14,7 @@ import com.qs.until.C3p0_Untils;
 /**
  * 
  * @author wxk
- *
+ * 已修改
  */
 public class test01 {
 	public static void main(String[] args) {
